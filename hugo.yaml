@@ -1,0 +1,27 @@
+baseURL: "https://mygane22site.pages.dev/"
+languageCode: zh-CN
+title: "Mygane22 的博客"
+theme: "DoIt"
+defaultContentLanguage: "zh-cn"
+
+
+output:
+  home: 
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  search:
+    enable: true
+    type: fuse
+    contentLength: 4000
+    placeholder: ""
+    maxResultLength: 10
+    snippetLength: 50
+    highlightTag: em
+    absoluteURL: false
+    algolia:
+      index: ""
+      appID: ""
+
