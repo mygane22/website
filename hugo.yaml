@@ -1,7 +1,7 @@
 baseURL: "https://mygane22site.pages.dev/"
 languageCode: zh-CN
 title: "Mygane22 的博客"
-theme: "DoIt"
+theme: "FixIt"
 defaultContentLanguage: "zh-cn"
 
 
@@ -12,6 +12,25 @@ output:
     - JSON
 
 params:
+  author:
+    name: "mygane22"
+    link: "https://mygane22site.pages.dev/"
+  home:
+    paginate: 10
+    profile:
+      enable: true
+      title: "<blockquote>
+      <small>2024年第34周</small><br>
+      归去归去来兮我夙愿<br>
+      余年还作垅亩民<br>
+     <small> ——《有为歌》王健作词</small><br>
+      </blockquote>"
+      subtitle: "欢迎来到 mygane22 的博客！"
+      posts:
+        paginate: 10
+  footer:
+    since: 2024
+    license: "除特别声明外，网站内容均以 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans'>CC BY-NC-SA 4.0</a> 协议发布"
   search:
     enable: true
     type: fuse
@@ -21,7 +40,17 @@ params:
     snippetLength: 50
     highlightTag: em
     absoluteURL: false
-    algolia:
-      index: ""
-      appID: ""
+    fuse:
+      isCaseSensitive: false
+      minMatchCharLength: 2
+      findAllMatches: false
+      location: 0
+      threshold: 0.3
+      distance: 100
+      ignoreLocation: false
+      useExtendedSearch: false
+      ignoreFieldNorm: false
+  busuanzi:
+    enable: true
+
 
