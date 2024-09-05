@@ -3,7 +3,8 @@ languageCode: zh-CN
 title: "Mygane22 的博客"
 theme: "FixIt"
 defaultContentLanguage: "zh-cn"
-
+enableEmoji: true
+hasCJKLanguage: true
 
 output:
   home: 
@@ -52,5 +53,39 @@ params:
       ignoreFieldNorm: false
   busuanzi:
     enable: true
+  archives:
+    paginate: 25
 
-
+menu: 
+  main:
+    - identifier: home
+      name: 首页
+      url: / 
+      weight: 1
+      params:
+        icon: fa-solid fa-home
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 2
+      params:
+        draft: false
+        icon: fa-solid fa-book-open
+    - identifier: archive
+      name: 存档
+      url: /archives/
+      weight: 3
+      params:
+        icon: fa-solid fa-archive
+    - identifier:
+      name: 分类
+      url: /categories/
+      weight: 4
+      params:
+        icon: fa-solid fa-list
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 5
+      params:
+        icon: fa-solid fa-tags
