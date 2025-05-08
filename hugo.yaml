@@ -51,6 +51,10 @@ params:
   archives:
     paginate: 25
 
+module:
+  imports:
+    path: "github.com/hugo-fixit/FixIt"
+
 menu: 
   main:
     - identifier: home
