@@ -1,6 +1,6 @@
 baseURL: "https://mygane22site.pages.dev/"
 languageCode: zh-CN
-title: "Mygane22 的博客"
+title: "mygane22的博客"
 theme: "FixIt"
 defaultContentLanguage: "zh-cn"
 enableEmoji: true
@@ -21,7 +21,7 @@ params:
     profile:
       enable: true
       title: "Mygane22"
-      subtitle: "欢迎来到 mygane22 的博客！"
+      subtitle: "欢迎来到mygane22的博客！"
       posts:
         paginate: 10
   footer:

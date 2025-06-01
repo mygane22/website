@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft - 标签 - Mygane22 的博客</title>
+    <link>http://localhost:1313/tags/draft/</link>
+    <description>Mygane22 的博客</description>
+    <generator>Hugo 0.147.3 &amp; FixIt v0.3.20</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 31 May 2025 12:20:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>默默无闻的第一篇</title>
+      <link>http://localhost:1313/posts/74444f3/</link>
+      <pubDate>Sat, 31 May 2025 12:20:53 +0000</pubDate>
+      <guid>http://localhost:1313/posts/74444f3/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>&lt;p&gt;第一篇博客，平平无奇。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
