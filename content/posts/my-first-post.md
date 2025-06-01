@@ -42,6 +42,9 @@ repost:
 ---
 
 <!--more-->
+> [!NOTE] 封面图授权协议
+> Chenspec, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+
 第一篇博客，平平无奇。
 
 5月31日，临近儿童节，想到了这个博客，决定打理一下这个2024年8月就有的计划了。
