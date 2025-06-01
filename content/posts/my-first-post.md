@@ -3,7 +3,7 @@ title: 默默无闻的第一篇
 subtitle:
 date: 2025-05-31T13:12:28Z
 slug: my-first-post
-draft: true
+draft: false
 author:
   name: "mygane22"
   link: "https://mygane22site.pages.dev/"
