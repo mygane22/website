@@ -30,6 +30,7 @@ resources:
   - name: featured-image-preview
     src: broken-glass.jpg
 toc: true
+comment: true
 math: false
 lightgallery: false
 password:
