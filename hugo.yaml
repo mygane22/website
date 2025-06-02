@@ -31,12 +31,12 @@ params:
     comment:
       giscus:
         enable: true
-        repo: mygane22/website
-        repoId: R_kgDONu-Z6Q
-        category: Announcements
-        categoryId: DIC_kwDONu-Z6c4Cq2ln
-        inputPosition: top
-        lang: zh_CN
+        repo: "mygane22/website"
+        repoId: "R_kgDONu-Z6Q"
+        category: "Announcements"
+        categoryId: "DIC_kwDONu-Z6c4Cq2ln"
+        inputPosition: "top"
+        lang: "zh_CN"
   search:
     enable: true
     type: fuse
