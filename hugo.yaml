@@ -29,6 +29,7 @@ params:
     license: "除特别声明外，网站内容均以 <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans'>CC BY-NC-SA 4.0</a> 协议发布"
   page:
     comment:
+      enable: true
       giscus:
         enable: true
         repo: "mygane22/website"
