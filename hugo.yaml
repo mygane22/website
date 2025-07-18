@@ -37,7 +37,7 @@ params:
         category: "Announcements"
         categoryId: "DIC_kwDONu-Z6c4Cq2ln"
         inputPosition: "top"
-        lang: "zh_CN"
+        lang: "zh-CN"
   search:
     enable: true
     type: fuse
