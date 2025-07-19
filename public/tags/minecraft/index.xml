@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>所有文章 - mygane22的博客</title>
-    <link>https://mygane22site.pages.dev/posts/</link>
+    <title>Minecraft - 标签 - mygane22的博客</title>
+    <link>https://mygane22site.pages.dev/tags/minecraft/</link>
     <description>mygane22的博客</description>
     <generator>Hugo 0.148.1 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 19 Jul 2025 16:13:46 +0800</lastBuildDate>
-    <atom:link href="https://mygane22site.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mygane22site.pages.dev/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>尝试了一下今年的Minecraft译名考试</title>
       <link>https://mygane22site.pages.dev/posts/0fdd9a6/</link>
@@ -15,14 +15,6 @@
       <guid>https://mygane22site.pages.dev/posts/0fdd9a6/</guid>
       <category domain="https://mygane22site.pages.dev/categories/minecraft/">Minecraft</category>
       <description>&lt;p&gt;昨天（18/07/2025）参加了一场 Minecraft 译名标准化考试。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>默默无闻的第一篇</title>
-      <link>https://mygane22site.pages.dev/posts/my-first-post/</link>
-      <pubDate>Sat, 31 May 2025 13:12:28 +0000</pubDate>
-      <guid>https://mygane22site.pages.dev/posts/my-first-post/</guid>
-      <category domain="https://mygane22site.pages.dev/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
-      <description>第一篇博客，平平无奇。</description>
     </item>
   </channel>
 </rss>
