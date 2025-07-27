@@ -14,6 +14,8 @@ keywords: Minecraft译名
 license:
 comment: true
 weight: 0
+featuredImage: minecraft-pig.jpg                                           
+featuredImagePreview: minecraft-pig.jpg
 tags:
   - Minecraft
   - 译名
@@ -26,9 +28,9 @@ hiddenFromFeed: false
 summary:
 resources:
   - name: featured-image
-    src: minecraft-pig.jpg
+    src: 
   - name: featured-image-preview
-    src: minecraft-pig.jpg
+    src: 
 toc: true
 math: false
 lightgallery: false
