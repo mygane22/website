@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>电脑 - 标签 - mygane22的博客</title>
+    <link>http://localhost:1313/tags/%E7%94%B5%E8%84%91/</link>
+    <description>mygane22的博客</description>
+    <generator>Hugo 0.148.1 &amp; FixIt v0.3.20</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 27 Jul 2025 12:24:54 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2122memories</title>
+      <link>http://localhost:1313/posts/eb95124/</link>
+      <pubDate>Sun, 27 Jul 2025 12:24:54 +0000</pubDate>
+      <guid>http://localhost:1313/posts/eb95124/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;p&gt;前两天，我重新在电脑上安装了旧的固态硬盘。当年那个128+4的时代，距离2025年的今天也只不过3年而已。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

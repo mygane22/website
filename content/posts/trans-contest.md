@@ -26,9 +26,9 @@ hiddenFromFeed: false
 summary:
 resources:
   - name: featured-image
-    src: featured-image.jpg
+    src: minecraft-pig.jpg
   - name: featured-image-preview
-    src: featured-image-preview.jpg
+    src: minecraft-pig.jpg
 toc: true
 math: false
 lightgallery: false
@@ -42,6 +42,9 @@ repost:
 ---
 昨天（18/07/2025）参加了一场 Minecraft 译名标准化考试。
 <!--more-->
+> [!NOTE] 封面图授权协议
+Holley And Chris Melton from Lebanon Ohio., [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+
 {{< bilibili BV1oRuAzyE8B >}}
 
 考试的成绩如下图：
