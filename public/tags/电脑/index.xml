@@ -4,10 +4,18 @@
     <title>电脑 - 标签 - mygane22的博客</title>
     <link>http://localhost:1313/tags/%E7%94%B5%E8%84%91/</link>
     <description>mygane22的博客</description>
-    <generator>Hugo 0.148.1 &amp; FixIt v0.3.20</generator>
+    <generator>Hugo 0.148.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 Aug 2025 12:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 16:53:11 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenJDK这一块</title>
+      <link>http://localhost:1313/posts/b94d769/</link>
+      <pubDate>Sat, 09 Aug 2025 16:53:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts/b94d769/</guid>
+      <category domain="http://localhost:1313/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;p&gt;在电脑上安装OpenJDK 11和OpenJDK 24时在概览中的神奇一幕。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2021-2022年的一部分回忆</title>
       <link>http://localhost:1313/posts/eb95124/</link>
