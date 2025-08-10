@@ -6,8 +6,32 @@
     <description>mygane22的博客</description>
     <generator>Hugo 0.148.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Jul 2025 16:13:46 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 14:21:27 +0800</lastBuildDate>
     <atom:link href="https://mygane22site.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日常打字练习</title>
+      <link>https://mygane22site.pages.dev/posts/4a3e42d/</link>
+      <pubDate>Sun, 10 Aug 2025 14:21:27 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/4a3e42d/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;img src=&#34;https://mygane22site.pages.dev/typing-practice.png&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;如图，日常打字练习。&lt;/p&gt;&#xA;&lt;p&gt;图中网站为 &lt;a href=&#34;https://www.edclub.com&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;edclub&lt;/a&gt; ，我还用Keypunch软件练习。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenJDK这一块</title>
+      <link>https://mygane22site.pages.dev/posts/b94d769/</link>
+      <pubDate>Sat, 09 Aug 2025 16:53:11 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/b94d769/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;img src=&#34;https://mygane22site.pages.dev/openjdk.png&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;在电脑上安装OpenJDK 11和OpenJDK 24时在概览中的神奇一幕。&lt;/p&gt;&#xA;&lt;p&gt;我将安装后出现在概览中的4个跟OpenJDK有关的应用放在了一个文件夹中（如上图所示）。&lt;/p&gt;&#xA;&lt;p&gt;图标加起来正好是4个企鹅&amp;#x1f427;。（&lt;code&gt;OpenJDK这一块.png&lt;/code&gt;，虽然4个图标不是排成一排的）。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2021-2022年的一部分回忆</title>
+      <link>https://mygane22site.pages.dev/posts/eb95124/</link>
+      <pubDate>Thu, 07 Aug 2025 12:24:54 +0000</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/eb95124/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;img src=&#34;https://mygane22site.pages.dev/old-browser-history2.jpg&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;前几天，我重新在电脑上安装了旧的固态硬盘。当年那个4+128的时代，距离2025年的今天也只不过3年而已。&lt;/p&gt;&#xA;&lt;p&gt;下面几张图片是我在2021-2022年关于网络与电脑的一些回忆。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-browser-history1.jpg&#34; title=&#34;/old-browser-history1.jpg&#34; data-thumbnail=&#34;/old-browser-history1.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的浏览器历史记录&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-browser-history1.jpg&#39; alt=&#34;/old-browser-history1.jpg&#34; height=&#34;70&#34; width=&#34;3000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的浏览器历史记录&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-browser-history2.jpg&#34; title=&#34;/old-browser-history2.jpg&#34; data-thumbnail=&#34;/old-browser-history2.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的浏览器历史记录&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-browser-history2.jpg&#39; alt=&#34;/old-browser-history2.jpg&#34; height=&#34;70&#34; width=&#34;3000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的浏览器历史记录&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-virtual-machines1.jpg&#34; title=&#34;/old-virtual-machines1.jpg&#34; data-thumbnail=&#34;/old-virtual-machines1.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的虚拟机（我装上的虚拟机还真够多的）&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-virtual-machines1.jpg&#39; alt=&#34;/old-virtual-machines1.jpg&#34; height=&#34;70&#34; width=&#34;3000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的虚拟机（我装上的虚拟机还真够多的）&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-virtual-machines2.jpg&#34; title=&#34;/old-virtual-machines2.jpg&#34; data-thumbnail=&#34;/old-virtual-machines2.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的虚拟机&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-virtual-machines2.jpg&#39; alt=&#34;/old-virtual-machines2.jpg&#34; height=&#34;70&#34; width=&#34;4000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的虚拟机&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/harmony-os-and-windows-11.png&#34; title=&#34;/harmony-os-and-windows-11.png&#34; data-thumbnail=&#34;/harmony-os-and-windows-11.png&#34; data-sub-html=&#34;&lt;h2&gt;2021年5月和2021年6月Harmony OS 2和Windows 11发布会的日程文件&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/harmony-os-and-windows-11.png&#39; alt=&#34;/harmony-os-and-windows-11.png&#34; height=&#34;70&#34; width=&#34;539&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;2021年5月和2021年6月Harmony OS 2和Windows 11发布会的日程文件&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;p&gt;记起2021-2022年的事情时，有时会感觉到记忆有一些紊乱，以为我是在2021年12月才换上8+256的配置。看来4+128的历史想象不到的再加上一个寒假了。&lt;/p&gt;&#xA;&lt;p&gt;不知道下一个三年，我将会过上什么样的网络人生呢？&lt;/p&gt;</description>
+    </item>
     <item>
       <title>尝试了一下今年的Minecraft译名考试</title>
       <link>https://mygane22site.pages.dev/posts/0fdd9a6/</link>

@@ -3,7 +3,7 @@ title: 2021-2022年的一部分回忆
 subtitle:
 date: 2025-08-07T12:24:54Z
 slug: eb95124
-draft: true
+draft: false
 author:
   name: mygane22
   link: https://mygane22site.pages.dev

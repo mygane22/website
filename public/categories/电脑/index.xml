@@ -2,26 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>电脑 - 分类 - mygane22的博客</title>
-    <link>http://localhost:1313/categories/%E7%94%B5%E8%84%91/</link>
+    <link>https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/</link>
     <description>mygane22的博客</description>
     <generator>Hugo 0.148.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 Aug 2025 16:53:11 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 14:21:27 +0800</lastBuildDate>
+    <atom:link href="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日常打字练习</title>
+      <link>https://mygane22site.pages.dev/posts/4a3e42d/</link>
+      <pubDate>Sun, 10 Aug 2025 14:21:27 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/4a3e42d/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;p&gt;如图，日常打字练习。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenJDK这一块</title>
-      <link>http://localhost:1313/posts/b94d769/</link>
+      <link>https://mygane22site.pages.dev/posts/b94d769/</link>
       <pubDate>Sat, 09 Aug 2025 16:53:11 +0800</pubDate>
-      <guid>http://localhost:1313/posts/b94d769/</guid>
-      <category domain="http://localhost:1313/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <guid>https://mygane22site.pages.dev/posts/b94d769/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
       <description>&lt;p&gt;在电脑上安装OpenJDK 11和OpenJDK 24时在概览中的神奇一幕。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021-2022年的一部分回忆</title>
-      <link>http://localhost:1313/posts/eb95124/</link>
+      <link>https://mygane22site.pages.dev/posts/eb95124/</link>
       <pubDate>Thu, 07 Aug 2025 12:24:54 +0000</pubDate>
-      <guid>http://localhost:1313/posts/eb95124/</guid>
-      <category domain="http://localhost:1313/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <guid>https://mygane22site.pages.dev/posts/eb95124/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
       <description>&lt;p&gt;前几天，我重新在电脑上安装了旧的固态硬盘。当年那个4+128的时代，距离2025年的今天也只不过3年而已。&lt;/p&gt;</description>
     </item>
   </channel>

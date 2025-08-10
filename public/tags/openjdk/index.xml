@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenJDK - 标签 - mygane22的博客</title>
-    <link>http://localhost:1313/tags/openjdk/</link>
+    <link>https://mygane22site.pages.dev/tags/openjdk/</link>
     <description>mygane22的博客</description>
     <generator>Hugo 0.148.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 09 Aug 2025 16:53:11 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/openjdk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mygane22site.pages.dev/tags/openjdk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenJDK这一块</title>
-      <link>http://localhost:1313/posts/b94d769/</link>
+      <link>https://mygane22site.pages.dev/posts/b94d769/</link>
       <pubDate>Sat, 09 Aug 2025 16:53:11 +0800</pubDate>
-      <guid>http://localhost:1313/posts/b94d769/</guid>
-      <category domain="http://localhost:1313/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <guid>https://mygane22site.pages.dev/posts/b94d769/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
       <description>&lt;p&gt;在电脑上安装OpenJDK 11和OpenJDK 24时在概览中的神奇一幕。&lt;/p&gt;</description>
     </item>
   </channel>

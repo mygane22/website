@@ -1,8 +1,8 @@
 ---
-title: OpenJDK这一块
+title: 日常打字练习
 subtitle:
-date: 2025-08-09T16:53:11+08:00
-slug: b94d769
+date: 2025-08-10T14:21:27+08:00
+slug: 4a3e42d
 draft: false
 author:
   name: mygane22
@@ -16,7 +16,7 @@ comment: true
 weight: 0
 tags:
   - 电脑
-  - OpenJDK
+  - 打字
 categories:
   - 电脑
 hiddenFromHomePage: false
@@ -24,8 +24,8 @@ hiddenFromSearch: false
 hiddenFromRelated: false
 hiddenFromFeed: false
 summary:
-featuredImage: openjdk.png
-featuredImagePreview:
+featuredImage: typing-practice.png
+featuredImagePreview: typing-practice.png
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -42,10 +42,7 @@ repost:
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
-在电脑上安装OpenJDK 11和OpenJDK 24时在概览中的神奇一幕。
+如图，日常打字练习。
 
 <!--more-->
-我将安装后出现在概览中的4个跟OpenJDK有关的应用放在了一个文件夹中（如上图所示）。
-
-图标加起来正好是4个企鹅:penguin:。（`OpenJDK这一块.png`，虽然4个图标不是排成一排的）。
-
+图中网站为 [edclub](https://www.edclub.com) ，我还用Keypunch软件练习。
