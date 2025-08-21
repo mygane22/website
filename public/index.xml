@@ -6,8 +6,16 @@
     <description>mygane22的博客</description>
     <generator>Hugo 0.148.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Aug 2025 17:07:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 11:34:10 +0800</lastBuildDate>
     <atom:link href="https://mygane22site.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video</title>
+      <link>https://mygane22site.pages.dev/posts/18bd389/</link>
+      <pubDate>Thu, 21 Aug 2025 11:34:10 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/18bd389/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E8%A7%86%E9%A2%91/">视频</category>
+      <description>&lt;img src=&#34;https://mygane22site.pages.dev/video.png&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;一段15分钟的视频，足足渲染了2个半小时。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Busmapgen</title>
       <link>https://mygane22site.pages.dev/posts/f47fbe8/</link>
