@@ -6,8 +6,16 @@
     <description>mygane22的博客</description>
     <generator>Hugo 0.149.1 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Sep 2025 14:00:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 14:10:15 +0800</lastBuildDate>
     <atom:link href="https://mygane22site.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenJDK这一块这一块</title>
+      <link>https://mygane22site.pages.dev/posts/eae1c31/</link>
+      <pubDate>Sat, 13 Sep 2025 14:10:15 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/eae1c31/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;img src=&#34;https://mygane22site.pages.dev/openjdk-2.png&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;往电脑中安装了OpenJDK 11、OpenJDK 17、OpenJDK 21和OpenJDK 24时出现的一幕。&lt;/p&gt;&#xA;&lt;p&gt;是&lt;a href=&#34;https://mygane22site.pages.dev/posts/b94d769/&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;之前博客&lt;/a&gt;的更新。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Name New Chapter</title>
       <link>https://mygane22site.pages.dev/posts/bc1b9d2/</link>

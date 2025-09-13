@@ -2,22 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mygane22site.pages.dev/categories/</loc>
-    <lastmod>2025-09-07T14:00:07+08:00</lastmod>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
   </url>
   <url>
     <loc>https://mygane22site.pages.dev/</loc>
-    <lastmod>2025-09-07T14:00:07+08:00</lastmod>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
   </url>
   <url>
-    <loc>https://mygane22site.pages.dev/posts/bc1b9d2/</loc>
-    <lastmod>2025-09-07T14:00:07+08:00</lastmod>
+    <loc>https://mygane22site.pages.dev/tags/openjdk/</loc>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mygane22site.pages.dev/posts/eae1c31/</loc>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
   </url>
   <url>
     <loc>https://mygane22site.pages.dev/posts/</loc>
-    <lastmod>2025-09-07T14:00:07+08:00</lastmod>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
   </url>
   <url>
     <loc>https://mygane22site.pages.dev/tags/</loc>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/</loc>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mygane22site.pages.dev/tags/%E7%94%B5%E8%84%91/</loc>
+    <lastmod>2025-09-13T14:10:15+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mygane22site.pages.dev/posts/bc1b9d2/</loc>
     <lastmod>2025-09-07T14:00:07+08:00</lastmod>
   </url>
   <url>
@@ -30,10 +46,6 @@
   </url>
   <url>
     <loc>https://mygane22site.pages.dev/posts/18bd389/</loc>
-    <lastmod>2025-08-21T11:34:10+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://mygane22site.pages.dev/tags/%E7%94%B5%E8%84%91/</loc>
     <lastmod>2025-08-21T11:34:10+08:00</lastmod>
   </url>
   <url>
@@ -61,16 +73,8 @@
     <lastmod>2025-08-10T14:21:27+08:00</lastmod>
   </url>
   <url>
-    <loc>https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/</loc>
-    <lastmod>2025-08-10T14:21:27+08:00</lastmod>
-  </url>
-  <url>
     <loc>https://mygane22site.pages.dev/posts/4a3e42d/</loc>
     <lastmod>2025-08-10T14:21:27+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://mygane22site.pages.dev/tags/openjdk/</loc>
-    <lastmod>2025-08-09T16:53:11+08:00</lastmod>
   </url>
   <url>
     <loc>https://mygane22site.pages.dev/posts/b94d769/</loc>
