@@ -4,10 +4,18 @@
     <title>mygane22的博客</title>
     <link>https://mygane22site.pages.dev/</link>
     <description>mygane22的博客</description>
-    <generator>Hugo 0.151.0 &amp; FixIt v0.3.20</generator>
+    <generator>Hugo 0.152.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Oct 2025 13:11:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 13:25:12 +0800</lastBuildDate>
     <atom:link href="https://mygane22site.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 10停止支持</title>
+      <link>https://mygane22site.pages.dev/posts/8103802/</link>
+      <pubDate>Sat, 25 Oct 2025 13:25:12 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/8103802/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;img src=&#34;https://mygane22site.pages.dev/windows-10-lock-screen.png&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;2025年10月14日，Microsoft Windows 10已停止支持。&lt;/p&gt;&#xA;&lt;div class=&#34;details admonition note open disabled&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-pencil-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;封面图授权协议&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;Benh LIEU SONG, &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;CC BY-SA 4.0&lt;/a&gt;, via Wikimedia Commons&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;我使用Windows 10的时间较短，前前后后大概只用了3个月的时间，马上就换用了Windows 11。&lt;/p&gt;&#xA;&lt;p&gt;虽然换用Linux已一年多时间，但是看到Windows 10相关的东西，我还是感到怀念。&lt;/p&gt;&#xA;&lt;p&gt;Windows 11已经发布了4年多时间，再倒过来看Windows 10时，甚至有些怀旧感在里头。尤其是1903之前的版本，比Windows Vista/7带来的怀旧感还强烈。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>B站账号4级纪念</title>
       <link>https://mygane22site.pages.dev/posts/118151b/</link>
@@ -79,14 +87,6 @@
       <guid>https://mygane22site.pages.dev/posts/0fdd9a6/</guid>
       <category domain="https://mygane22site.pages.dev/categories/minecraft/">Minecraft</category>
       <description>&lt;img src=&#34;https://mygane22site.pages.dev/minecraft-pig.jpg&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;昨天（18/07/2025）参加了一场 Minecraft 译名标准化考试。&lt;/p&gt;&#xA;&lt;div class=&#34;details admonition note open disabled&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-pencil-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;封面图授权协议&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;Holley And Chris Melton from Lebanon Ohio., &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&lt;div class=&#34;bilibili&#34;&gt;&#xA;  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1oRuAzyE8B&amp;page=1&amp;autoplay=false&amp;poster=true&amp;muted=false&amp;danmaku=true&amp;t=0&#34; border=&#34;0&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;考试的成绩如下图：&lt;/p&gt;&#xA;&lt;p&gt;第一部分基本没有什么错误，第二部分苍白之园这一块就开始错了&amp;#x1f628;。第三部分我的脑子可能还停留在1.19时期，根本不知道“潜影贝导弹”啥时候改成“潜影弹”了&amp;#x1f914;。&lt;/p&gt;&#xA;&lt;p&gt;最后成绩88分&amp;#x1f914;，仍需努力。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>默默无闻的第一篇</title>
-      <link>https://mygane22site.pages.dev/posts/my-first-post/</link>
-      <pubDate>Sat, 31 May 2025 13:12:28 +0000</pubDate>
-      <guid>https://mygane22site.pages.dev/posts/my-first-post/</guid>
-      <category domain="https://mygane22site.pages.dev/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
-      <description>&lt;img src=&#34;https://mygane22site.pages.dev/broken-glass.jpg&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;div class=&#34;details admonition note open disabled&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-pencil-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;封面图授权协议&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;Chenspec, &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;CC BY-SA 4.0&lt;/a&gt;, via Wikimedia Commons&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&lt;p&gt;第一篇博客，平平无奇。&lt;/p&gt;&#xA;&lt;p&gt;5月31日，临近儿童节，想到了这个博客，决定打理一下这个2024年8月就有的计划了。&lt;/p&gt;&#xA;&lt;p&gt;最后，祝读者们儿童节快乐（虽然并没有什么读者）。愿你们找回正属于自己或本该属于自己的童心。&lt;/p&gt;&#xA;&lt;p&gt;OK. That&amp;rsquo;s it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

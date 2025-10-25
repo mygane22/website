@@ -4,10 +4,18 @@
     <title>所有文章 - mygane22的博客</title>
     <link>https://mygane22site.pages.dev/posts/</link>
     <description>mygane22的博客</description>
-    <generator>Hugo 0.151.0 &amp; FixIt v0.3.20</generator>
+    <generator>Hugo 0.152.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Oct 2025 13:11:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 13:25:12 +0800</lastBuildDate>
     <atom:link href="https://mygane22site.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 10停止支持</title>
+      <link>https://mygane22site.pages.dev/posts/8103802/</link>
+      <pubDate>Sat, 25 Oct 2025 13:25:12 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/8103802/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;p&gt;2025年10月14日，Microsoft Windows 10已停止支持。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>B站账号4级纪念</title>
       <link>https://mygane22site.pages.dev/posts/118151b/</link>

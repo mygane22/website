@@ -12,7 +12,7 @@ author:
 description:
 keywords:
 license:
-comment: false
+comment: true
 weight: 0
 tags:
 categories:
@@ -30,7 +30,6 @@ resources:
   - name: featured-image-preview
     src: broken-glass.jpg
 toc: true
-comment: true
 math: false
 lightgallery: false
 password:
