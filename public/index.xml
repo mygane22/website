@@ -6,8 +6,16 @@
     <description>mygane22的博客</description>
     <generator>Hugo 0.152.2 &amp; FixIt v0.3.20</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Oct 2025 13:25:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 15:06:19 +0800</lastBuildDate>
     <atom:link href="https://mygane22site.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重回 Windows 7</title>
+      <link>https://mygane22site.pages.dev/posts/b98aa62/</link>
+      <pubDate>Sun, 30 Nov 2025 15:06:19 +0800</pubDate>
+      <guid>https://mygane22site.pages.dev/posts/b98aa62/</guid>
+      <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
+      <description>&lt;p&gt;上一周把电脑中其中一块硬盘重新装回了 Windows 7。&lt;/p&gt;&#xA;&lt;p&gt;尝试了许多之前的应用，顺便也找到了之前 Phase 的新线索。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Windows 10停止支持</title>
       <link>https://mygane22site.pages.dev/posts/8103802/</link>
@@ -79,14 +87,6 @@
       <guid>https://mygane22site.pages.dev/posts/eb95124/</guid>
       <category domain="https://mygane22site.pages.dev/categories/%E7%94%B5%E8%84%91/">电脑</category>
       <description>&lt;img src=&#34;https://mygane22site.pages.dev/old-browser-history2.jpg&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;前几天，我重新在电脑上安装了旧的固态硬盘。当年那个4+128的时代，距离2025年的今天也只不过3年而已。&lt;/p&gt;&#xA;&lt;p&gt;下面几张图片是我在2021-2022年关于网络与电脑的一些回忆。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-browser-history1.jpg&#34; title=&#34;/old-browser-history1.jpg&#34; data-thumbnail=&#34;/old-browser-history1.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的浏览器历史记录&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-browser-history1.jpg&#39; alt=&#34;/old-browser-history1.jpg&#34; height=&#34;70&#34; width=&#34;3000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的浏览器历史记录&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-browser-history2.jpg&#34; title=&#34;/old-browser-history2.jpg&#34; data-thumbnail=&#34;/old-browser-history2.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的浏览器历史记录&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-browser-history2.jpg&#39; alt=&#34;/old-browser-history2.jpg&#34; height=&#34;70&#34; width=&#34;3000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的浏览器历史记录&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-virtual-machines1.jpg&#34; title=&#34;/old-virtual-machines1.jpg&#34; data-thumbnail=&#34;/old-virtual-machines1.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的虚拟机（我装上的虚拟机还真够多的）&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-virtual-machines1.jpg&#39; alt=&#34;/old-virtual-machines1.jpg&#34; height=&#34;70&#34; width=&#34;3000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的虚拟机（我装上的虚拟机还真够多的）&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/old-virtual-machines2.jpg&#34; title=&#34;/old-virtual-machines2.jpg&#34; data-thumbnail=&#34;/old-virtual-machines2.jpg&#34; data-sub-html=&#34;&lt;h2&gt;截至2022年7月的虚拟机&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/old-virtual-machines2.jpg&#39; alt=&#34;/old-virtual-machines2.jpg&#34; height=&#34;70&#34; width=&#34;4000&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;截至2022年7月的虚拟机&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://mygane22site.pages.dev/harmony-os-and-windows-11.png&#34; title=&#34;/harmony-os-and-windows-11.png&#34; data-thumbnail=&#34;/harmony-os-and-windows-11.png&#34; data-sub-html=&#34;&lt;h2&gt;2021年5月和2021年6月Harmony OS 2和Windows 11发布会的日程文件&lt;/h2&gt;&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#39;https://mygane22site.pages.dev/harmony-os-and-windows-11.png&#39; alt=&#34;/harmony-os-and-windows-11.png&#34; height=&#34;70&#34; width=&#34;539&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;2021年5月和2021年6月Harmony OS 2和Windows 11发布会的日程文件&lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;p&gt;记起2021-2022年的事情时，有时会感觉到记忆有一些紊乱，以为我是在2021年12月才换上8+256的配置。看来4+128的历史想象不到的再加上一个寒假了。&lt;/p&gt;&#xA;&lt;p&gt;不知道下一个三年，我将会过上什么样的网络人生呢？&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>尝试了一下今年的Minecraft译名考试</title>
-      <link>https://mygane22site.pages.dev/posts/0fdd9a6/</link>
-      <pubDate>Sat, 19 Jul 2025 16:13:46 +0800</pubDate>
-      <guid>https://mygane22site.pages.dev/posts/0fdd9a6/</guid>
-      <category domain="https://mygane22site.pages.dev/categories/minecraft/">Minecraft</category>
-      <description>&lt;img src=&#34;https://mygane22site.pages.dev/minecraft-pig.jpg&#34; alt=&#34;featured image&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;p&gt;昨天（18/07/2025）参加了一场 Minecraft 译名标准化考试。&lt;/p&gt;&#xA;&lt;div class=&#34;details admonition note open disabled&#34;&gt;&#xA;  &lt;div class=&#34;details-summary admonition-title&#34;&gt;&lt;i class=&#34;icon fa-fw fa-solid fa-pencil-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;封面图授权协议&lt;/div&gt;&#xA;  &lt;div class=&#34;details-content&#34;&gt;&#xA;    &lt;div class=&#34;admonition-content&#34;&gt;&lt;p&gt;Holley And Chris Melton from Lebanon Ohio., &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;CC BY 2.0&lt;/a&gt;, via Wikimedia Commons&lt;/p&gt;&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&lt;div class=&#34;bilibili&#34;&gt;&#xA;  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1oRuAzyE8B&amp;page=1&amp;autoplay=false&amp;poster=true&amp;muted=false&amp;danmaku=true&amp;t=0&#34; border=&#34;0&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;考试的成绩如下图：&lt;/p&gt;&#xA;&lt;p&gt;第一部分基本没有什么错误，第二部分苍白之园这一块就开始错了&amp;#x1f628;。第三部分我的脑子可能还停留在1.19时期，根本不知道“潜影贝导弹”啥时候改成“潜影弹”了&amp;#x1f914;。&lt;/p&gt;&#xA;&lt;p&gt;最后成绩88分&amp;#x1f914;，仍需努力。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
