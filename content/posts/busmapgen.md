@@ -3,7 +3,7 @@ title: Busmapgen
 subtitle:
 date: 2025-08-17T17:07:56+08:00
 slug: f47fbe8
-draft: false
+draft: true
 author:
   name: mygane22
   link: https://mygane22site.pages.dev
